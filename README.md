@@ -17,7 +17,7 @@ We need to have 'false positives' coordinates of cropped images to the first mod
 For that I have a function 'glissage2’ that check the results of the first model applied to train images and compared them to the real coordinates.
 Every coordinates that doesn't match are added as 'false positives' data to the second model.
 
-## Face detection on test images
+### Face detection on test images
 Now that we have an efficient enought SVM model, we can apply it to the tests images in order to retrieve the faces coordinates.
 The function 'testImage’ takes the test images (folder 'test') on which apply the model, and creates a result text file for each image (under the folder 'testLabel').
 
