@@ -35,4 +35,4 @@ You will need to dispose of a computer with Matlab software installed.
 ## Authors
 
 * **Maxime DONNET** - *School Supervised Learning faces detection* - [School_Supervised_Learning_faces_detection](https://github.com/maxou75/School_Supervised_Learning_faces_detection)
-
+* **May 2016**
